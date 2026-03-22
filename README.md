@@ -3,7 +3,7 @@
 **Candidate:** Darragh Moran — University of Galway, Financial Mathematics & Economics
 **Project:** [Mesa](https://github.com/projectmesa/mesa) — Behavioral Framework (GSoC 2026)
 
-This repository documents my process of learning Mesa from the ground up — building progressively complex agent-based models, identifying pain points in the current API, and developing the intuition needed to contribute meaningfully to the Behavioral Framework project.
+This repository documents my process of learning Mesa from the ground up; building progressively complex agent-based models, identifying pain points in the current API, and developing the intuition needed to contribute meaningfully to the Behavioral Framework project.
 
 ---
 
