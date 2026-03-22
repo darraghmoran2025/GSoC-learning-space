@@ -13,7 +13,7 @@ This repository documents my process of learning Mesa from the ground up — bui
 | Area | Status |
 |------|--------|
 | 5 models built (Schelling → RL Agent) | ✅ Complete |
-| 15 pain points identified and documented | ✅ Complete |
+| 16 pain points identified and documented | ✅ Complete |
 | Mesa GitHub issues & discussions researched | ✅ Complete |
 | GitHub discussions opened on key pain points | ✅ Complete |
 | Peer candidate review written | ✅ Complete |
