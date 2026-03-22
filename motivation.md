@@ -79,3 +79,4 @@ Issues and observations worth raising with the Mesa community:
 | 13 | No built-in state abstraction for RL — state is just `agent.pos`; adding features requires manual tuple-packing | RL Agent | Medium |
 | 14 | Q-table not serialisable via `DataCollector` — can't track full policy evolution over time without custom serialisation | RL Agent | Medium |
 | 15 | `SingleGrid` prevents multiple agents per cell — distorts learned policy in dense RL environments | RL Agent | Low |
+| 16 | `mesa.space` is deprecated in favour of `mesa.discrete_space` but the migration path and API differences aren't clearly documented — flagged by a maintainer during a community discussion | All models | Medium |
