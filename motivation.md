@@ -11,7 +11,7 @@
 
 My degree sits at the intersection of mathematics, statistics, and economics, with coursework in Game Theory, Stochastic Processes, and Econometrics. I'm currently completing an actuarial internship, where I've built quantitative tools in Python using Pandas, Matplotlib, NumPy, SciPy, and Seaborn. I also have a solid foundation in C++ and R, and have done smaller-scale projects in TypeScript and HTML.
 
-Outside the classroom: I co-founded my university's Student Managed Fund and won two national trading competitions (CME, Euronext). That experience — watching real market behaviour diverge sharply from what textbooks predict — is a large part of what drew me here.
+Outside the classroom: I co-founded my university's Student Managed Fund and won two national trading competitions (CME, Euronext). That experience; watching real market behaviour diverge sharply from what textbooks predict; is a large part of what drew me here.
 
 ---
 
