@@ -35,7 +35,7 @@ This repository documents my process of learning Mesa from the ground up — bui
 
 ## Pain Points Identified
 
-15 issues found while building — documented with model context and severity. Full details in [`motivation.md`](motivation.md) and each model's README.
+16 issues found while building — documented with model context and severity. Full details in [`motivation.md`](motivation.md) and each model's README.
 
 | # | Issue | Model | Severity |
 |---|-------|-------|----------|
@@ -54,7 +54,7 @@ This repository documents my process of learning Mesa from the ground up — bui
 | 13 | No built-in state abstraction for RL — state is just `agent.pos`; adding features requires manual tuple-packing | RL Agent | Medium |
 | 14 | Q-table not serialisable via `DataCollector` — can't track full policy evolution without custom serialisation | RL Agent | Medium |
 | 15 | `SingleGrid` prevents multiple agents per cell — distorts learned policy in dense RL environments | RL Agent | Low |
-
+| 16 | `mesa.space` is deprecated in favour of `mesa.discrete_space` but the migration path and API differences aren't clearly documented — flagged by a maintainer during a community discussion | All models | Medium |
 ---
 
 ## Community Engagement
